@@ -1,9 +1,7 @@
 ### Hi Developers 👋
-
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-Pooja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pooja-dogra-7579b1125/)](https://www.linkedin.com/in/pooja-dogra-7579b1125/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Pooja-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Pooja-yellow)](https://stackoverflow.com/users/21243643/pooja-dogra)
 
 Here is Pooja Dogra . MTech in Computer Science, having 3 years of teaching experience as an Assitant Professor with Lovely Professional University, Punjab. At present serving as Java Technical Trainer with almost 4 years experience have worked with Niit pvt ltd and at present working with Lithan Educlass Pvt Ltd as a Java Learning Facilitator - provided trainings to under grads, grads and working Professionals across countaries in Java Full stack Courses.
 
