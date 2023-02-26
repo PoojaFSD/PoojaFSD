@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
-Hi My name is Pooja Dogra . MTech in Computer Science, having 3 years of teaching experience as an Assitant Professor with Lovely Professional University, Punjab. At present serving as Java Technical Trainer with almost 4 years experience have worked with Niit pvt ltd and at present working with Lithan Educlass Pvt Ltd as a Java Learning Facilitator - provided trainings to under grads, grads and working Professionals across countaries in Java Full stack Courses.
+Here is Pooja Dogra . MTech in Computer Science, having 3 years of teaching experience as an Assitant Professor with Lovely Professional University, Punjab. At present serving as Java Technical Trainer with almost 4 years experience have worked with Niit pvt ltd and at present working with Lithan Educlass Pvt Ltd as a Java Learning Facilitator - provided trainings to under grads, grads and working Professionals across countaries in Java Full stack Courses.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/PoojaFSD/count.svg)
